@@ -1,0 +1,9 @@
+Bug Report for a Bug in the Login page that submit button is not working
+1. Navigate to the login page.
+2. Enter the valid username and password.
+3. Click on the submit button.
+Expected Result:
+The user should be logged in and redirect to the appropriate page based on their user role.
+Actual Result:
+The submit button does not respond. The user is not logged in and not redirected the home
+page.

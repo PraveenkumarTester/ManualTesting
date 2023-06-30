@@ -1,0 +1,13 @@
+Negative Testcases
+1. Testcase for Login functionality:
+Entering an incorrect username and password should not allow user to login.
+2. Testcase for search text field functionality:
+Searching for an unwanted item should not return any results.
+3. Testcase for Registration functionality:
+Attempting to Register with an email address that is already in use should not allow the user
+to complete the registration process.
+4. Testcase for payment functionality:
+Enter an invalid pin for Atm it should not accepted.
+5. Testcase for payment functionality:
+Attempting to upload Unsupported file format should give result in an error message 
+informing the user that file type is not supported.

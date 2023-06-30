@@ -1,0 +1,9 @@
+Bug Report for WhatsApp
+1. Open WhatsApp and go to any chat window.
+2. Type a message and tap on the send button.
+3. The message does not get delivered and an error message appears saying “Message not 
+send. Tap to try again.”
+Expected Result:
+The message should be delivered successfully without any error.
+Actual Result:
+The message fails to get delivered and an error messages appear.

@@ -1,0 +1,6 @@
+Test cases for Booking Tickets in Red Bus
+1. Test Case: Successful ticket booking
+• Input: Source: “ Chennai”,
+Destination: “Mumbai”, Date of Journey: “07-07-2023”, Number of Passenger: “4”
+• Output: Successfully booked four tickets from Chennai to Mumbai July 7
+th,2023.
